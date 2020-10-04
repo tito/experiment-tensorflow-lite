@@ -1,8 +1,10 @@
-# Experiment using TensorFlow lite with Kivy
+# TensorFlow lite with Kivy
 
 This is an experimental project, no support will be done.
 
+Works only on Android for now.
 
+![screenshot](https://github.com/tito/experiment-tensorflow-lite/blob/main/screenshot.jpg?raw=true)
 
 It uses:
 - Kivy android camera to grab RGBA pixels
